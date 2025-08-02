@@ -1,0 +1,29 @@
+{
+  "browser": {
+    "usertoken": "",
+    "cookie": "",
+    "conversation_id": "",
+    "parent_message_id": "",
+    "remote_debug_url": "ws://",
+    "target_url": ""
+  },
+  "api": {
+    "base_url": "https://",
+    "car_page": "",
+    "login_page": "/auth/login",
+    "list_page": "/list"
+  },
+  "dingtalk": {
+    "client_id": "",
+    "client_secret": ""
+  },
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "content_type": "application/json",
+    "origin": "https://",
+    "referer": "https://",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  "conversation_id": "",
+  "parent_message_id": ""
+}
